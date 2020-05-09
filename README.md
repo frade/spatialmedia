@@ -1,10 +1,10 @@
 # Spatial Media Metadata Injector for Linux
 
-A tool for manipulating spatial media 
-([spherical video](../docs/spherical-video-rfc.md) and
-[spatial audio](../docs/spatial-audio-rfc.md)) metadata in MP4 and MOV files.
+A tool for manipulating metadata in MP4 and MOV files.
 It can be used to inject spatial media metadata into a file or validate metadata
 in an existing file.
+
+I'm using the tool to inject 360 metadata into a video file editied in Davinci Resolve before an upload on Youtube.
 
 ## Usage
 
