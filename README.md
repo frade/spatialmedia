@@ -1,9 +1,13 @@
 # spatialmedia-linux
-Spatial Media Metadata Injector v2.1 (for linux) Python3
+Spatial Media Metadata Injector v2.1 (fork for linux) Python3
 
-Download the original Windows version of the Spatial Media Metadata Injector v2.1
-https://github.com/google/spatial-media/archive/v2.1.zip
+Usage:
+python3 gui.py
 
-Extract. CD to spatialmedia folder and replace the gui.py with the gui.py from the repository.
+You may need python3-tk package to install.
+
+For Debian based distributives:
+
+sudo apt install python3-tk
 
 Thank you!
