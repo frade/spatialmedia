@@ -16,3 +16,7 @@ From within the directory:
     python3 gui.py
 
 Launch GUI for a metadata injection
+
+#### Additional Python modules may be required
+
+    sudo apt install pyhthon3-tk
